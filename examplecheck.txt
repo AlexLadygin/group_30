@@ -1,0 +1,3 @@
+1) web page content should be correct without any spelling or grammatical errors
+2) all fonts should be same as per the requirements 
+3) all the text should be properly aligned
